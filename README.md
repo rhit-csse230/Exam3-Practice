@@ -1,2 +1,2 @@
-# Exam2Practice
-Practice exams from 201720 and 202110.
+# Exam3Practice
+Practice exam. Covers binary trees, but not hashing or heaps.
